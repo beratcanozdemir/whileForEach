@@ -1,0 +1,1 @@
+## [Patika](https://www.patika.dev) C# Eğitimi While-ForEach ders uygulaması. İçerisinde bir adet README dosyası ve proje dosyaları bulunmaktadır.
